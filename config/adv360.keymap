@@ -37,7 +37,7 @@
         &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &none                                                            &none &kp Y  &kp U  &kp I     &kp O    &kp P    &kp BSLH
         &kp ESC   &kp A     &kp S    &kp D    &kp F      &kp G  &kp LBKT           &kp LGUI &kp LALT &kp RALT  &kp RGUI           &kp RBKT &kp H  &kp J  &kp K     &kp L    &kp SEMI &kp SQT
         &kp LSHFT &kp Z     &kp X    &kp C    &kp V      &kp B                            &kp HOME &kp PG_UP                           &kp N  &kp M  &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
-        &mo 2     &kp GRAVE &kp LCTRL &kp LEFT &kp RIGHT                &kp SPACE &kp RCTRL &kp END  &kp PG_DN &kp BSPC &kp ENTER             &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 2
+        &kp F13     &kp GRAVE &kp LCTRL &kp LEFT &kp RIGHT                &kp SPACE &kp RCTRL &kp END  &kp PG_DN &kp BSPC &kp ENTER             &kp UP &kp DOWN  &kp LBKT &kp RBKT &kp F13
       >;
     };
     keypad {
@@ -46,7 +46,7 @@
         &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &none                                                            &none &kp Y  &kp KP_N7  &kp KP_N8    &kp KP_N9     &kp KP_MINUS    &kp BSLH
         &kp ESC   &kp A     &kp S    &kp D    &kp F      &kp G  &kp LBKT           &kp LGUI &kp LALT &kp RALT  &kp RGUI          &kp RBKT &kp H  &kp KP_N4  &kp KP_N5    &kp KP_N6     &kp KP_PLUS     &kp SQT
         &kp LSHFT &kp Z     &kp X    &kp C    &kp V      &kp B                            &kp HOME &kp PG_UP                           &kp N  &kp KP_N1  &kp KP_N2    &kp KP_N3     &kp KP_ENTER    &kp RSHFT
-        &mo 2     &kp GRAVE &kp CAPS &kp LEFT &kp RIGHT                &kp KP_N0 &kp RCTRL   &kp END  &kp PG_DN &kp BSPC &kp ENTER              &kp UP     &kp DOWN     &kp KP_DOT    &kp RBKT        &mo 2
+        &kp F13     &kp GRAVE &kp CAPS &kp LEFT &kp RIGHT                &kp KP_N0 &kp RCTRL   &kp END  &kp PG_DN &kp BSPC &kp ENTER              &kp UP     &kp DOWN     &kp KP_DOT    &kp RBKT        &kp F13
       >;
     };
     fn {
